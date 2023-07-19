@@ -1,8 +1,4 @@
-
-
-
-
-     const weatherForm=document.querySelector('form')
+    const weatherForm=document.querySelector('form')
      const search=document.querySelector('input')
      //selecting paragragh tag using id value(shd use # followed by id name)
      const messageOne=document.querySelector('#message-1')
